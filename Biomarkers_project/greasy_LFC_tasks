@@ -1,0 +1,6 @@
+python LogFoldChangeLoop.py Features1.txt
+python LogFoldChangeLoop.py Features2.txt
+python LogFoldChangeLoop.py Features3.txt
+python LogFoldChangeLoop.py Features4.txt
+python LogFoldChangeLoop.py Features5.txt
+python LogFoldChangeLoop.py Features6.txt
