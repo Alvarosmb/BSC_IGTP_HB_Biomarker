@@ -1,2 +1,2 @@
-End to end piepline for the identification of an optimized diagnostic biomarker panel for childhood liver cancer
+End to end pipeline for the identification of an optimized diagnostic biomarker panel for childhood liver cancer
 
